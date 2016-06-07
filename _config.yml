@@ -1,0 +1,28 @@
+name: BLAUWTULP
+favicon: null
+layout_spectrum: 0.47036584722809494
+typography_spectrum: 0.664836582262069
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9320725603029132
+  lightness: 0.36661422275938094
+  saturation: 0.19265525275841355
+  rhythmicContrast: 0.4399506391491741
+purpose: []
